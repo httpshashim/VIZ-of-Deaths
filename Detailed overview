@@ -1,0 +1,19 @@
+Project Description: Bar Chart Visualization of Infant Deaths and Life Expectancy
+In this visualization, a bar chart is created to analyze the distribution of two continuous variables — Infant Deaths and Life Expectancy — across multiple countries (Afghanistan, Albania, Algeria, Angola) over time. The data is grouped by day, month, quarter, and year, allowing for a temporal comparison of these health indicators.
+
+Light Blue Bars represent the Sum of Infant Deaths, a key indicator of public health issues in each country.
+
+Dark Blue Bars represent the Sum of Life Expectancy, which reflects the overall health and living conditions of the population.
+
+The x-axis is categorized by country and date, which serves as a combination of both categorical (country) and time-based variables. The y-axis shows the total counts or values for each respective metric.
+
+This bar chart effectively allows us to:
+
+Compare the health performance between different countries.
+
+Observe trends over time, such as increases or decreases in infant deaths or life expectancy.
+
+Identify countries with extreme values, which may require further investigation or targeted intervention.
+
+The visualization was created using Tableau, a data visualization tool that enables interactive exploration and effective presentation of complex data.
+

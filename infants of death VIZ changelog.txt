@@ -1,0 +1,12 @@
+| Date       | Task/Change                                  | Description                                                                                        |
+| ---------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 2025-07-11 | 📥 Data Collection                           | Obtained dataset containing country-wise records of Infant Deaths and Life Expectancy.             |
+| 2025-07-11 | 🧹 Data Cleaning                             | Checked for missing values and ensured data types were appropriate for analysis in Tableau.        |
+| 2025-07-11 | 📊 Chart Type Selection                      | Decided to use a **Bar Chart** to compare distributions of two continuous variables.               |
+| 2025-07-11 | 📌 Categorical Variable Identified           | Used **Country** and **Date (Day/Month/Quarter/Year)** as categorical axes.                        |
+| 2025-07-11 | 📌 Continuous Variables Mapped               | Plotted **Sum of Infant Deaths** and **Sum of Life Expectancy** on the y-axis.                     |
+| 2025-07-11 | 🎨 Color Coding                              | Assigned **Light Blue** for Infant Deaths and **Dark Blue** for Life Expectancy for clarity.       |
+| 2025-07-11 | 📅 Time Segmentation                         | Segmented the data into **quarters and months** to observe trends over time.                       |
+| 2025-07-11 | 🔍 Chart Analysis                            | Verified whether the bar chart displayed meaningful patterns between countries and time.           |
+| 2025-07-12 | ✅ Task Validation                            | Confirmed that the chart meets the project instruction of visualizing categorical/continuous data. |
+| 2025-07-12 | 📝 Project Description & Documentation Added | Drafted a written explanation of the chart and its significance for the project report.            |
